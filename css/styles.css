@@ -80,8 +80,6 @@ a {
                        /* HEADER */
 
 .header {
-    padding-top: 24px;
-    padding-bottom: 24px;
     border-bottom: 1px solid var(--header-border-color);
 }
 
@@ -282,6 +280,7 @@ a {
     background-size: 70px 70px;
     background-repeat: no-repeat;
     background-position: center;
+    border-radius: 4px;
     margin-bottom: 30px;
 }
 
